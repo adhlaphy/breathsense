@@ -1,0 +1,7 @@
+part,role,seller,price_rs,link,backup_part
+BME688 breakout (Qwiic),gas + T + RH + P,,3600,,BME680
+ESP32 DevKit WROOM-32,microcontroller,,450,,
+SHT31 breakout,reference T and RH,,400,,
+Breadboard + jumpers + USB cable,wiring,,250,,
+Silicone tube 6 mm + one-way valve + mouthpieces,breath path,,300,,
+Airtight box ~100 mL + hot glue,chamber,,150,,
